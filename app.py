@@ -14,4 +14,3 @@ if st.button("Submit"):
     st.write(f"Hello {name}, you are {age} years old!")
 else:
     st.write("Fill out the details above and press Submit.")
-
